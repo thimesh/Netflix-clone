@@ -1,0 +1,7 @@
+* {
+  margin: 0; /* this will get rid of all margins and align everything to left */
+}
+
+.app {
+  background-color: #111;
+}
